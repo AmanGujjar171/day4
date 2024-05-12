@@ -1,0 +1,24 @@
+.form{
+    border: 0.2px solid rgb(212, 211, 211);
+    height: 350px;
+    
+    width: 350px;
+    border-radius: 15px;
+    background-color: #f0f8ffa1;
+
+}
+.heading {
+ margin:13px 20px ;
+}
+.inputs{
+    margin-top: 65px;
+    padding: 21px;
+}
+.inputs input{
+    margin-top:10px 0px ;
+    padding: 7px 67px;
+
+}
+.inputs select{
+    padding: 8px 87px;
+}
